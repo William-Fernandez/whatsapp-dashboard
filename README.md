@@ -37,7 +37,8 @@ src/
 ├─ components/
 │   ├─ Dashboard.jsx
 │   └─ FeedbackTable.jsx
-├─ data.json
+├─ data
+    └─ data.json
 ├─ App.jsx
 ├─ main.jsx
 

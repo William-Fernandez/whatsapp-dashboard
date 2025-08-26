@@ -1,7 +1,7 @@
 import React from "react";
 import "../src/App.css";
 import Dashboard from "./components/Dashboard.jsx";
-import data from "./data.json";
+import data from "./data/data.json";
 
 export default function App() {
     return (
