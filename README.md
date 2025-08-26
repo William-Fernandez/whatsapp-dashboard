@@ -27,6 +27,8 @@ It was created as part of a one–day case study challenge to improve the existi
 ```
 
 src/
+├─ assets/
+│   └─ whatsapp-dashboard.png
 ├─ components/
 │   ├─ Dashboard.jsx
 │   └─ FeedbackTable.jsx
@@ -76,7 +78,7 @@ The project can be easily deployed to **Vercel** or **Netlify**:
 
 ## 📸 Screenshots
 
-(Add here some screenshots of your dashboard and feedback table)
+![Screenshot of the Dashboard](./src/assets/whatsapp-dashboard.png)
 
 ---
 
