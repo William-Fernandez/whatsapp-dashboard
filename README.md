@@ -1,9 +1,4 @@
-## 📄 Simple README (British English)
-
-You can copy-paste this directly into a `README.md` file:
-
-```markdown
-# WhatsApp Business Dashboard
+## WhatsApp Business Dashboard
 
 This is a prototype dashboard built with **React, Vite, Tailwind CSS**, and mock JSON data.  
 It was created as part of a one–day case study challenge to improve the existing **AI WhatsApp Assistant** by giving small business owners insights into their activity.
