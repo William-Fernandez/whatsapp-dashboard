@@ -1,5 +1,3 @@
----
-
 ## 📄 Simple README (British English)
 
 You can copy-paste this directly into a `README.md` file:
