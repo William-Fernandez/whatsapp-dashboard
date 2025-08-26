@@ -1,12 +1,98 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📄 Simple README (British English)
 
-Currently, two official plugins are available:
+You can copy-paste this directly into a `README.md` file:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```markdown
+# WhatsApp Business Dashboard
 
-## Expanding the ESLint configuration
+This is a prototype dashboard built with **React, Vite, Tailwind CSS**, and mock JSON data.  
+It was created as part of a one–day case study challenge to improve the existing **AI WhatsApp Assistant** by giving small business owners insights into their activity.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+-   📊 Key metrics: total messages, bookings, and new clients.
+-   ⭐ Client feedback table with ratings.
+-   📱 Responsive layout (cards and table adapt to mobile screens).
+-   🎨 Clean and modern UI with Tailwind CSS.
+
+---
+
+## 🛠️ Tech Stack
+
+-   [React](https://react.dev/)
+-   [Vite](https://vitejs.dev/)
+-   [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+## 📂 Project Structure
+
+```
+
+src/
+├─ components/
+│   ├─ Dashboard.jsx
+│   └─ FeedbackTable.jsx
+├─ data.json
+├─ App.jsx
+├─ main.jsx
+
+```
+
+---
+
+## 🚀 Running locally
+
+1. Clone the repo:
+    ```bash
+    git clone https://github.com/William-Fernandez/whatsapp-dashboard.git
+    cd whatsapp-dashboard
+    ```
+
+````
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start development server:
+
+   ```bash
+   npm run dev
+   ```
+
+The app will be available at **[http://localhost:5173](http://localhost:5173)**
+
+---
+
+## 📦 Deployment
+
+The project can be easily deployed to **Vercel** or **Netlify**:
+
+* Push the repository to GitHub.
+* Import it into [Vercel](https://vercel.com/) with one click.
+* Build command: `npm run build`
+* Output directory: `dist`
+
+---
+
+## 📸 Screenshots
+
+(Add here some screenshots of your dashboard and feedback table)
+
+---
+
+## 📜 Licence
+
+This project is for learning and prototyping purposes only.
+
+```
+
+---
+````
