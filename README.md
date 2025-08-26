@@ -47,8 +47,6 @@ src/
     cd whatsapp-dashboard
     ```
 
-````
-
 2. Install dependencies:
 
    ```bash
@@ -85,8 +83,3 @@ The project can be easily deployed to **Vercel** or **Netlify**:
 ## 📜 Licence
 
 This project is for learning and prototyping purposes only.
-
-```
-
----
-````
