@@ -1,0 +1,31 @@
+{
+    "totalMessages": 120,
+    "totalBookings": 45,
+    "newClients": 8,
+    "feedback": [
+        {
+            "name": "Alice",
+            "service": "Consultation",
+            "date": "2025-08-25",
+            "rating": 5
+        },
+        {
+            "name": "Bob",
+            "service": "Installation",
+            "date": "2025-08-24",
+            "rating": 4
+        },
+        {
+            "name": "Charlie",
+            "service": "Support",
+            "date": "2025-08-23",
+            "rating": 5
+        },
+        {
+            "name": "Diana",
+            "service": "Maintenance",
+            "date": "2025-08-22",
+            "rating": 4
+        }
+    ]
+}
