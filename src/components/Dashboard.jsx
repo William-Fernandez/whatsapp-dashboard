@@ -1,4 +1,3 @@
-// Create a dashboard with 3 cards showing total messages, total bookings, new clients using Tailwind
 import React from 'react';
 import FeedbackTable from './FeedbackTable.jsx';
 

@@ -1,4 +1,3 @@
-// Create a table showing feedback: name, service, date, rating using Tailwind
 export default function FeedbackTable({ feedback }) {
     return (
         <div className="mt-8">
